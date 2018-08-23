@@ -147,6 +147,7 @@ print res.fx[0:res.total_num_search]
 # In[16]:
 
 plt.plot(-best_fx)
+plt.show()
 
 
 # In[ ]:
